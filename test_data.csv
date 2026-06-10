@@ -1,0 +1,11 @@
+Customer ID,total_transactions,total_revenue,currently_auto_renews,has_cancelled_before,total_active_days,total_songs_skipped,total_songs_completed,total_listen_time_secs
+CUS-9910,48,2400,1,0,29,12,450,108000
+CUS-9911,2,40,0,0,1,30,4,960
+CUS-9912,15,750,1,1,14,55,120,28800
+CUS-9913,6,300,0,0,4,25,30,7200
+CUS-9914,36,1800,1,0,26,20,380,91200
+CUS-9915,1,15,0,1,0,15,1,240
+CUS-9916,22,1100,1,0,20,40,210,50400
+CUS-9917,8,400,1,0,10,60,85,20400
+CUS-9918,4,200,0,0,3,35,15,3600
+CUS-9919,60,3000,1,0,30,5,600,144000
